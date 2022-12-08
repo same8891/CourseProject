@@ -41,6 +41,6 @@ You should expect the following outputs in the terminal:
   You can now view your Streamlit app in your browser.
 
   Local URL: http://localhost:8501
-  Network URL: http://10.186.103.205:8501
+  Network URL: http://xx.xx.xx.xx:8501
 ```
 If the webpage is not automatically popping-up, please copy-paste the url to your browser and open.
